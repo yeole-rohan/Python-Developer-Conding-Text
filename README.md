@@ -1,2 +1,2 @@
-# Python-Developer-Conding-Text
+# Python-Developer-Coding-Text
 This file/repo intended to solve Fair billing coding problem
